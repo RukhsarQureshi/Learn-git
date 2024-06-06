@@ -1,0 +1,1 @@
+Here is the new file made for testing the pull command into the local repo CLI
